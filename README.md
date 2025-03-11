@@ -13,13 +13,13 @@
 
 - 🤝 I’m looking for help with [Container Security & Threat Intelligence](https://github.com/Hafiz-shamnad/SenitnalDock)
 
-- 👨‍💻 All of my projects are available at [https://hafiz-shamnad.github.io/website/](https://hafiz-shamnad.github.io/website/)
+- 👨‍💻 All of my projects are available at [Personal Website](https://hafiz-shamnad.github.io/website/)
 
 - 💬 Ask me about **Cybersecurity, Docker Security, DevSecOps, Penetration Testing**
 
 - 📫 How to reach me **connectme.hafiz@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1cyLcfJuJrItFqxjP11Ys0zPVlhLU6Yz5/edit?usp=drive_link&ouid=117752559460289724828&rtpof=true&sd=true](https://docs.google.com/document/d/1cyLcfJuJrItFqxjP11Ys0zPVlhLU6Yz5/edit?usp=drive_link&ouid=117752559460289724828&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1cyLcfJuJrItFqxjP11Ys0zPVlhLU6Yz5/edit?usp=drive_link&ouid=117752559460289724828&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I think I am a creative nerd!**
 
