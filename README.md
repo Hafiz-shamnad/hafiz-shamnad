@@ -56,8 +56,6 @@
 
 ###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hafiz-shamnad" alt="hafiz-shamnad" /></a> </p>
-
 - 🔭 I’m currently working on [SenitnalDock](https://github.com/Hafiz-shamnad/SenitnalDock)
 
 - 🌱 I’m currently learning **Advanced Container Security, AI for Cybersecurity, Cloud Security**
